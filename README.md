@@ -10,7 +10,7 @@ La variabile target è **Attrition** (Yes/No).
 
 
 ## Obiettivo
-
+Prevedere quanto è probabile che un dipendente lasci l'azienda
 
 ## Modelli usati
 
