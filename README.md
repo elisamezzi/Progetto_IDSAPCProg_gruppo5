@@ -19,16 +19,22 @@ Prevedere quanto è probabile che un dipendente lasci l'azienda
 ├── images/      # grafici esportati dall'analisi
 └── README.md
 
-#Fasi del progetto
-- **Fase 1 – Descrizione e comprensione del dataset** (Maddalena Vannini): analisi descrittiva, statistiche, distribuzioni, qualità dei dati e prime ipotesi.
--  **Fase 2 – Analisi esplorativa e visualizzazione** (Elisa Mezzi): analisi tramite seaborn che approfondisce le relazioni tra le variabili e la variabile target, con l'obiettivo di individuare quali feature sono più utili a prevedere la variabile target *Attrition*. L'analisi esplorativa è impostata in questo modo:
-  - due **heatmap di correlazione** (una per le variabili numeriche e una per le
-  categoriche codificate) che mostrano sia quali variabili sono legate all'abbandono,
-  sia quali sono ridondanti tra loro;
-  - sui risultati delle due heatmap, approfondisce le variabili più significative con
-  **grafici di tipo diverso** (countplot, barplot, boxplot, istogramma, pointplot,
-  barre impilate, grafico a torta e scatterplot), includendo **confronti tra classi e tra variabili** ;
-  - *sintesi finale* che indica esplicitamente quali variabili sono utili e quali no per prevedere l'abbandono.
+## Fasi del progetto
+
+- **Fase 1 – Descrizione e comprensione del dataset** (Maddalena Vannini): analisi
+  descrittiva, statistiche, distribuzioni, qualità dei dati e prime ipotesi.
+
+- **Fase 2 – Analisi esplorativa e visualizzazione** (Elisa Mezzi): analisi tramite
+  *seaborn* che approfondisce le relazioni tra le variabili e la variabile target, con
+  l'obiettivo di individuare quali feature sono più utili a prevedere l'*Attrition*.
+  L'analisi è impostata in questo modo:
+    - due **heatmap di correlazione** (una per le variabili numeriche e una per le
+      categoriche codificate) che mostrano sia quali variabili sono legate all'abbandono, sia quali sono ridondanti tra loro;
+    - sulla base dei risultati delle due heatmap, approfondimento delle variabili più
+      significative con **grafici di tipo diverso** (countplot, barplot, boxplot,
+      istogramma, pointplot, barre impilate, grafico a torta e scatterplot), includendo
+      **confronti tra classi e tra variabili**;
+    - **sintesi finale** che indica esplicitamente quali variabili sono utili e quali no per prevedere l'abbandono.
 
 ## Modelli usati
 
