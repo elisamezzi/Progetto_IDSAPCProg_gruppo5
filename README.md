@@ -46,5 +46,5 @@ Colab. Aprire il notebook in `notebooks/` ed eseguire le celle in ordine. Il dat
 
 ## Membri del gruppo
 
-Maddalena -  `maddalena/fase1` - Descrizione dataset 
-Elisa Mezzi - matr. 0001231137 - elisa.mezzi@studio.unibo.it - `elisa/fase2` - Analisi esplorativa e visualizzazione
+- Maddalena -  `maddalena/fase1` - Descrizione dataset 
+- Elisa Mezzi - matr. 0001231137 - elisa.mezzi@studio.unibo.it - `elisa/fase2` - Analisi esplorativa e visualizzazione
