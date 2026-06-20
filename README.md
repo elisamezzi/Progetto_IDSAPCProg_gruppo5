@@ -13,12 +13,14 @@ Il dataset contiene informazioni su dipendenti aziendali, tra cui  caratteristic
 Prevedere quanto è probabile che un dipendente lasci l'azienda
 
 ## Struttura del repository
-## Struttura del repository
+
+```
+.
 ├── data/        # dataset e descrizione delle variabili
 ├── notebooks/   # notebook di analisi
 ├── images/      # grafici esportati dall'analisi
 └── README.md
-
+```
 ## Fasi del progetto
 
 - **Fase 1 – Descrizione e comprensione del dataset** (Maddalena Vannini): analisi
