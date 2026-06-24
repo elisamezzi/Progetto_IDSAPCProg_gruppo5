@@ -38,7 +38,7 @@ Prevedere quanto è probabile che un dipendente lasci l'azienda
       **confronti tra classi e tra variabili**;
     - **sintesi finale** che indica esplicitamente quali variabili sono utili e quali no per prevedere l'abbandono.
 
-- **Fase 3 - Modellazione** (Isabella Manetti): sviluppo e analisi di tre modelli predittivi relativi all'abbandono lavorativo, in partciolare
+- **Fase 3 - Modellazione** (Isabella Manetti): sviluppo e analisi di tre modelli predittivi relativi all'abbandono lavorativo, in particolare
     - **k-NN**
     - **Random Forest**
     - **Regressione logistica**
