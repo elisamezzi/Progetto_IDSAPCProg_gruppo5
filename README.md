@@ -38,8 +38,10 @@ Prevedere quanto è probabile che un dipendente lasci l'azienda
       **confronti tra classi e tra variabili**;
     - **sintesi finale** che indica esplicitamente quali variabili sono utili e quali no per prevedere l'abbandono.
 
-## Modelli usati
-
+- **Fase 3 - Modellazione** (Isabella Manetti): sviluppo e analisi di tre modelli predittivi relativi all'abbandono lavorativo, in particolare
+    - **k-NN**
+    - **Random Forest**
+    - **Regressione logistica**
 
 ## Istruzioni per l'esecuzione
 Il notebook è pensato per **Google Colab** (con Python 3). Le librerie usate
@@ -48,5 +50,6 @@ Colab. Aprire il notebook in `notebooks/` ed eseguire le celle in ordine. Il dat
 
 ## Membri del gruppo
 
-- Maddalena -  `maddalena/fase1` - Descrizione dataset 
+- Maddalena Vannini - matr.0001180470, maddalena.vannini@studio.unibo.it - `maddalena/fase1` - Descrizione dataset 
 - Elisa Mezzi - matr. 0001231137 - elisa.mezzi@studio.unibo.it - `elisa/fase2` - Analisi esplorativa e visualizzazione
+- Isabella Manetti - matr.0001216209, isabella.manetti2@studio.unibo.it - `isabella/fase3`- Modellazione
