@@ -52,4 +52,4 @@ Colab. Aprire il notebook in `notebooks/` ed eseguire le celle in ordine. Il dat
 
 - Maddalena Vannini - matr.0001180470, maddalena.vannini@studio.unibo.it - `maddalena/fase1` - Descrizione dataset 
 - Elisa Mezzi - matr. 0001231137 - elisa.mezzi@studio.unibo.it - `elisa/fase2` - Analisi esplorativa e visualizzazione
-- Isabella Manetti - matr.0001216209, isabella.manetti2@studio.unibo.it - `Isabella/fase3`- Modellazione
+- Isabella Manetti - matr.0001216209, isabella.manetti2@studio.unibo.it - `isabella/fase3`- Modellazione
