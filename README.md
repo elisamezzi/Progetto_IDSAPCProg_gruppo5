@@ -19,6 +19,7 @@ Prevedere quanto è probabile che un dipendente lasci l'azienda
 ├── data/        # dataset e descrizione delle variabili
 ├── notebooks/   # notebook di analisi
 ├── images/      # grafici esportati dall'analisi
+├── report/      # report scientifico LaTeX
 └── README.md
 ```
 ## Fasi del progetto
